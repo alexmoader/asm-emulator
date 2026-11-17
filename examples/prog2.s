@@ -1,0 +1,3 @@
+LI R2 0x10
+LI R3 0x20
+ADD R4 R2 R3
